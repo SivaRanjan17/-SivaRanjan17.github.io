@@ -5,6 +5,7 @@
 body {
   font-family: 'Raleway', sans-serif;
   background: #F9F8F8;
+  display: flex;
 }
 
 header.header {
